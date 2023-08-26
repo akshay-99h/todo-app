@@ -5,7 +5,6 @@
 /client/node_modules
 /client/.git
 /client/.gitignore
-/client/build
 
 /api/.dockerignore
 /api/Dockerfile
