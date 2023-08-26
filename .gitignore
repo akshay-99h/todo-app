@@ -1,0 +1,12 @@
+/api/node_modules
+/api/.git
+/api/.gitignore
+
+/client/node_modules
+/client/.git
+/client/.gitignore
+/client/build
+
+/api/.dockerignore
+/api/Dockerfile
+.DS_Store
